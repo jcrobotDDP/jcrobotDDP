@@ -16,6 +16,18 @@ With our programmable drive‑by‑wire chassis and a rich ecosystem of peripher
 
 ---
 
+## How to contact me：
+
+- 📧 Email: ddpjcrobot@outlook.com  |  jcrobot@163.com
+
+- 📱 WhatsApp:
+
+   • +1 (327)208 2104
+
+   • +1 (818)463 9273
+
+  ---
+
 | Category | Description | Quick Navigation |
 | :--- | :--- | :--- |
 | Tracked Robot Chassis | This is the product user guide for our tracked robot chassis series. You can select a chassis, download 3D models, and find usage instructions. | [Tracked Series](https://github.com/jcrobotDDP/robotchassis-tracked-Komodo.git) |
