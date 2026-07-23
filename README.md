@@ -22,9 +22,9 @@ With our programmable drive‑by‑wire chassis and a rich ecosystem of peripher
 
 - 📱 WhatsApp:
 
-   • +1 (327)208 2104
-
    • +1 (818)463 9273
+
+   • +1 (327)208 2104
 
   ---
 
